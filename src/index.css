@@ -293,7 +293,7 @@ margin: auto;
   height: 28vh;
   /* background-color: red; */
   position: absolute;
-  top: 330%;
+  top: 360%;
   padding: 28px 85px;
 }.technology_sec h1{
   color: #0A0927;
@@ -342,13 +342,13 @@ margin: auto;
   background-size: cover;
   background-position: center;
   position: absolute;
-  top: 375%;
+  top: 400%;
 }
 .skill{
   width: 100%;
   height: 70%;
   position:absolute;
-  top: 410%;
+  top: 440%;
 }
 .skill h1{
   text-align: center;
@@ -466,7 +466,7 @@ transition: cubic-bezier(0.19, 1, 0.22, 1)1s;
   width: 100%;
   height: 60%;
   position: absolute;
-  top: 220%;
+  top: 300%;
 
  
 }
